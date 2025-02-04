@@ -1,4 +1,10 @@
-## Hi there 👋
+# Hello there! I'm skyeBreach
+
+> [!NOTE]
+> I am still designing my profile readme.
+>
+> I am working as fast as I can, but I always try and take pride in my work, so it may not be done too soon!
+>
 
 <!--
 **skyeBreach/skyeBreach** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
