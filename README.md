@@ -20,3 +20,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Contribution and Development Stats
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
